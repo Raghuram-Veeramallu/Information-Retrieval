@@ -1,3 +1,4 @@
-# Information Retrieval
+# Information Retrieval Course Assignments
 
-Information Retrieval (CSD 315) Course assignments
+This repository contains the work done as part of the CSD 315 (Information Retrieval) coursework at Shiv Nadar University, India.  
+
